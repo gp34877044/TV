@@ -1,0 +1,188 @@
+[
+  {
+    "{": "sites\": ["
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "key\": \"movies",
+    "parsed_extra": [
+      null
+    ]
+  },
+  {
+    "{": "name\": \"我的电影资源",
+    "parsed_extra": [
+      null
+    ]
+  },
+  {
+    "{": "type\": 1",
+    "parsed_extra": [
+      null
+    ]
+  },
+  {
+    "{": "api\": \"https://example.com/api/movies"
+  },
+  {
+    "{": "}",
+    "parsed_extra": [
+      null
+    ]
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "key\": \"tv",
+    "parsed_extra": [
+      null
+    ]
+  },
+  {
+    "{": "name\": \"我的电视剧资源",
+    "parsed_extra": [
+      null
+    ]
+  },
+  {
+    "{": "type\": 1",
+    "parsed_extra": [
+      null
+    ]
+  },
+  {
+    "{": "api\": \"https://example.com/api/tv"
+  },
+  {
+    "{": "}",
+    "parsed_extra": [
+      null
+    ]
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "key\": \"anime",
+    "parsed_extra": [
+      null
+    ]
+  },
+  {
+    "{": "name\": \"我的动漫资源",
+    "parsed_extra": [
+      null
+    ]
+  },
+  {
+    "{": "type\": 1",
+    "parsed_extra": [
+      null
+    ]
+  },
+  {
+    "{": "api\": \"https://example.com/api/anime"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "]",
+    "parsed_extra": [
+      null
+    ]
+  },
+  {
+    "{": "lives\": ["
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "group\": \"新闻频道",
+    "parsed_extra": [
+      null
+    ]
+  },
+  {
+    "{": "channels\": ["
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "name\": \"CCTV-1",
+    "parsed_extra": [
+      null
+    ]
+  },
+  {
+    "{": "url\": \"https://example.com/live/cctv1.m3u8"
+  },
+  {
+    "{": "}",
+    "parsed_extra": [
+      null
+    ]
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "name\": \"CCTV-2",
+    "parsed_extra": [
+      null
+    ]
+  },
+  {
+    "{": "url\": \"https://example.com/live/cctv2.m3u8"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "]"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "]",
+    "parsed_extra": [
+      null
+    ]
+  },
+  {
+    "{": "parses\": ["
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "name\": \"万能解析",
+    "parsed_extra": [
+      null
+    ]
+  },
+  {
+    "{": "type\": 1",
+    "parsed_extra": [
+      null
+    ]
+  },
+  {
+    "{": "url\": \"https://example.com/parse?url="
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "]"
+  },
+  {
+    "{": "}"
+  }
+]
